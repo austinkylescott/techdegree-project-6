@@ -3,7 +3,7 @@
         {
             "id": 0,
             "project_name": "Random Quote Generator",
-            "description": "Given an array of quotes, displays a random quote and random color.",
+            "description": "Given an array of quotes, displays a random quote with random background color.",
             "technologies": ["HTML","CSS","JavaScript"],
             "live_link": "www.google.com",
             "github_link": "https://github.com/austinkylescott/techdegree-project-1",
@@ -43,7 +43,7 @@
         {
             "id": 4,
             "project_name": "Public API Requests",
-            "description": "Uses JSONPlaceholder API to generate a directory of users which can be filtered. Clicking on the user displays a modal with additional information.",
+            "description": "Uses JSONPlaceholder API to generate a directory of users which can be filtered. Clicking on the user displays a modal with additional employee information.",
             "technologies": ["HTML","CSS","JavaScript"],
             "live_link": "www.google.com",
             "github_link": "https://github.com/austinkylescott/techdegree-project-5",
