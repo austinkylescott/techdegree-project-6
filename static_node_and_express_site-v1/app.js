@@ -1,5 +1,5 @@
 const express = require('express');
-const { projects } = require('./data/data.json.js');
+const { projects } = require('./data/data.json');
 const path = require('path');
 const bodyParser = require('body-parser');
 
