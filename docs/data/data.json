@@ -5,7 +5,7 @@
             "project_name": "Random Quote Generator",
             "description": "Given an array of quotes, displays a random quote with random background color.",
             "technologies": ["HTML","CSS","JavaScript"],
-            "live_link": "www.google.com",
+            "live_link": "https://austinkylescott.github.io/techdegree-project-1/a_random_quote_generator-v1/",
             "github_link": "https://github.com/austinkylescott/techdegree-project-1",
             "thumbnail": "/static/images/project0/project0_thumb.png",
             "image_urls": ["/static/images/project0/project0_img0.png"]
@@ -15,7 +15,7 @@
             "project_name": "List Pagination",
             "description": "Uses JavaScript to paginate a large list of students.",
             "technologies": ["HTML","CSS","JavaScript"],
-            "live_link": "www.google.com",
+            "live_link": "https://austinkylescott.github.io/techdegree-project-2/list_pagination_and_filtering-v1/",
             "github_link": "https://github.com/austinkylescott/techdegree-project-2",
             "thumbnail": "/static/images/project1/project1_thumb.png",
             "image_urls": ["/static/images/project1/project1_img0.png"]
@@ -25,7 +25,7 @@
             "project_name": "Interactive Registration Form",
             "description": "A sample interactive conference registration form.",
             "technologies": ["HTML","CSS","JavaScript"],
-            "live_link": "www.google.com",
+            "live_link": "https://austinkylescott.github.io/techdegree-project-3/interactive-form-v1",
             "github_link": "https://github.com/austinkylescott/techdegree-project-3",
             "thumbnail": "/static/images/project2/project2_thumb.png",
             "image_urls": ["/static/images/project2/project2_img0.png"]
@@ -35,7 +35,7 @@
             "project_name": "Phrase Hunter",
             "description": "A Hangman clone. A random mystery phrase is selected and the player must guess the phrase before running out of lives.",
             "technologies": ["HTML","CSS","JavaScript"],
-            "live_link": "www.google.com",
+            "live_link": "https://austinkylescott.github.io/techdegree-project-4/oop_game-v2/",
             "github_link": "https://github.com/austinkylescott/techdegree-project-4",
             "thumbnail": "/static/images/project3/project3_thumb.png",
             "image_urls": ["/static/images/project3/project3_img0.png"]
@@ -45,7 +45,7 @@
             "project_name": "Public API Requests",
             "description": "Uses JSONPlaceholder API to generate a directory of users which can be filtered. Clicking on the user displays a modal with additional employee information.",
             "technologies": ["HTML","CSS","JavaScript"],
-            "live_link": "www.google.com",
+            "live_link": "https://austinkylescott.github.io/techdegree-project-5/public_api_request-v1/",
             "github_link": "https://github.com/austinkylescott/techdegree-project-5",
             "thumbnail": "/static/images/project4/project4_thumb.png",
             "image_urls": ["/static/images/project4/project4_img0.png"]
